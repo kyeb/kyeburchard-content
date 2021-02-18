@@ -1,6 +1,5 @@
 ---
 name: Politichat
-imagePath: /
 icon: video
 ---
 
